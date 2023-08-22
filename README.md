@@ -1,2 +1,2 @@
-# Data-Science-Stuff My first input on github
+# Data-Science My first input on github
 
